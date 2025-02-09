@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 - [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
 - [ ] Users can see location and time of photo upload in the feed 
   - [x] time
-  - [] location
+  - [ ] location
 - [x] User stays logged in when app is closed and open again    
 
 
@@ -33,12 +33,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
 
 ## Notes
 
+https://github.com/user-attachments/assets/223af483-e89a-488a-b7a5-8ad4a7d0f693
 
 ## License
 
